@@ -10,6 +10,7 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+bgChanger-v1.0.0-1.zip
 *.local
 
 # Editor directories and files
