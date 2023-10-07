@@ -1,6 +1,8 @@
 # Build Using React + Vite
-
+ 
 Live URL : https://kadirulislam.com/bgChanger
+
+You can now test using Next.js
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
