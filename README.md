@@ -1,6 +1,6 @@
 # Build Using React + Vite
  
-Live URL : https://kadirulislam.com/bgChanger
+Live URL : https://bg-changer.kadirulislam.com/
 
 You can now test using Next.js
 
